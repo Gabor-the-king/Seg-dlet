@@ -1,1 +1,1 @@
-# Seg-dlet
+# Segedlet
