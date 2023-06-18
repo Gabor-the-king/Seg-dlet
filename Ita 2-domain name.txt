@@ -1,0 +1,8 @@
+ip domain-name
+cry k g rsa
+1024
+ip ssh ver 2
+line vty 0 15
+pas .....
+login
+
